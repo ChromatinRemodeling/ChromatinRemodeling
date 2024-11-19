@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![ChromatinRemodeling's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChromatinRemodeling&show_icons=true&theme=synthwave)](https://github.com/ChromatinRemodeling)
+![ChromatinRemodeling's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChromatinRemodeling&show_icons=true&theme=synthwave)
